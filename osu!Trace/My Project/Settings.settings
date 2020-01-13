@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Button1" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Z</Value>
+    </Setting>
+    <Setting Name="Button2" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">X</Value>
+    </Setting>
+    <Setting Name="Smoke" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">C</Value>
+    </Setting>
+    <Setting Name="Activate" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">PgUp</Value>
+    </Setting>
+    <Setting Name="Deactivate" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">PgDn</Value>
+    </Setting>
+    <Setting Name="LengthUp" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Oemplus</Value>
+    </Setting>
+    <Setting Name="LengthDown" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">OemMinus</Value>
+    </Setting>
+    <Setting Name="DotNum" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">65</Value>
+    </Setting>
+    <Setting Name="MsgDisable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
